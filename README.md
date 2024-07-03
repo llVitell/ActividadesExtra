@@ -1,6 +1,4 @@
 # ActividadesExtra
-- [x] V3
-
-- [x] PlayDocker
-
-- [] PlayKubernetes
+- V3
+- PlayDocker
+- PlayKubernetes (no pude solucionar los conflictos)
